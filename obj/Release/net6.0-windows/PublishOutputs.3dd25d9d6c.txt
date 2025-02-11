@@ -1,0 +1,7 @@
+C:\Users\Christos\Desktop\TaxiApp\WinFormsApp1\bin\Release\net6.0-windows\app.publish\WinFormsApp1.exe
+C:\Users\Christos\Desktop\TaxiApp\WinFormsApp1\bin\Release\net6.0-windows\app.publish\WinFormsApp1.dll
+C:\Users\Christos\Desktop\TaxiApp\WinFormsApp1\bin\Release\net6.0-windows\app.publish\WinFormsApp1.deps.json
+C:\Users\Christos\Desktop\TaxiApp\WinFormsApp1\bin\Release\net6.0-windows\app.publish\WinFormsApp1.runtimeconfig.json
+C:\Users\Christos\Desktop\TaxiApp\WinFormsApp1\bin\Release\net6.0-windows\app.publish\WinFormsApp1.pdb
+C:\Users\Christos\Desktop\TaxiApp\WinFormsApp1\bin\Release\net6.0-windows\app.publish\MySql.Data.dll
+C:\Users\Christos\Desktop\TaxiApp\WinFormsApp1\bin\Release\net6.0-windows\app.publish\MySql.Data.xml

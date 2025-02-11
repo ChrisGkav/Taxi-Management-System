@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_LastSelectedProfileId>C:\Users\Christos\Desktop\TaxiAppFinal\TaxiAppNew\TaxiAppNew\TaxiApp\WinFormsApp1\Properties\PublishProfiles\ClickOnceProfile9.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="Calculate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CalculateEdit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EditEmployee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EditExpensesCal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EditService.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ExpensesCal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Service.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="StandBy.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="StandByEdit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TaxiDrivers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
