@@ -1,2 +1,1 @@
-# Taxi Management System
- TaxiManagementSystem is a simple yet efficient taxi fleet management system that allows users to register taxis, assign drivers, track shifts, and print reports. Built with C# and MySQL, it ensures smooth operations for taxi businesses.
+The Taxi Fleet Management System is a desktop application developed in C# with MySQL as its database management system. The application is designed to simplify and organize the daily operations of a taxi fleet by providing functionality for managing vehicles, drivers, and work shifts. The project focuses on efficient data management, database integration, and the development of a structured application to support everyday fleet management operations.
